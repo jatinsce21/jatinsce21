@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jatin Singhal</h1>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif")/>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinsce21&label=Profile%20views&color=0e75b6&style=flat" alt="jatinsce21" /> </p>
